@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ashokpaudelapril/FRDM-KL26Z/SDK_2_2_0_FRDM-KL26Z/devices/MKL26Z4/gcc/startup_MKL26Z4.S
+

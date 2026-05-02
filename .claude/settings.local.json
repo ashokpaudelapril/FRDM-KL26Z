@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(arm-none-eabi-gcc --version)"
+    ]
+  }
+}

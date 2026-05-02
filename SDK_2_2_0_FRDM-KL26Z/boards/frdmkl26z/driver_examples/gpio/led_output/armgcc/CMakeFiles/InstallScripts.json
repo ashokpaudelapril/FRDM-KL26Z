@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ashokpaudelapril/FRDM-KL26Z/SDK_2_2_0_FRDM-KL26Z/boards/frdmkl26z/driver_examples/gpio/led_output/armgcc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
